@@ -29,7 +29,7 @@ ndful of redstone dust (A stack or so)
 redstone blocks 
 trapdoors 
 noteblocks 
-stackable (up to 64) items for the clock 
+64-stackable items for clock 
 lever 
 observers 
 magma blocks 
