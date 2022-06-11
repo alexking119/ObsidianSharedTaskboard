@@ -19,13 +19,13 @@ asdasdasdasd
 **sticky pistons
 	16
 
-**hoppers
+hoppers
 	2
 
-##### comparators
+comparators
 	3
 
-##### Redstone dust
+Redstone dust
 	stack
 
 ##### redstone blocks
