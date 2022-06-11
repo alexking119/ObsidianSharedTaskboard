@@ -3,5 +3,7 @@
   "livePreview": true,
   "showLineNumber": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "smartIndentList": true,
+  "useTab": false
 }
