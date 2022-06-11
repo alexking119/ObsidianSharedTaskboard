@@ -3,16 +3,16 @@ Vid Tutorial: https://www.youtube.com/watch?v=Gg17wAr_IOI&list=PLQ4fAHh89xNXdVgc
 
 
 Major Resources Required:
-building blocks
+**building blocks
 	46 stacks
 
-slabs
+**slabs
 	18 stacks
 
-glass
+**glass
 	14 stacks
 
-stacks magma blocks
+**stacks magma blocks
 	8 stacks
 
 sticky pistons
@@ -29,7 +29,8 @@ Redstone dust
 
 redstone blocks
 	16
-trapdoors 
+
+**trapdoors 
 	1.5 stacks
 
 noteblocks 
