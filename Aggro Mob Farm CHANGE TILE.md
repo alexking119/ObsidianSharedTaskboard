@@ -3,16 +3,16 @@ Vid Tutorial: https://www.youtube.com/watch?v=Gg17wAr_IOI&list=PLQ4fAHh89xNXdVgc
 testing123
 
 Major Resources Required:
-##### **building blocks
+##### building blocks
 	46 stacks
 
-##### **slabs
+##### slabs
 	18 stacks
 
-##### **glass
+##### glass
 	14 stacks
 
-##### **stacks magma blocks
+##### stacks magma blocks
 	8 stacks
 
 ##### sticky pistons
@@ -27,20 +27,20 @@ Major Resources Required:
 ##### Redstone dust
 	stack
 
-redstone blocks
+##### redstone blocks
 	16
 
-**trapdoors 
+##### **trapdoors 
 	1.5 stacks
 
-noteblocks 
+##### noteblocks 
 	16
 	
-stackable (up to 64) items hopper clock 
+##### stackable (up to 64) items hopper clock 
 	28
 
-lever
+##### lever
 	1
 
-observers
+##### observers
 	2
