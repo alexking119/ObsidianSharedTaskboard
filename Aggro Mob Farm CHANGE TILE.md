@@ -13,8 +13,6 @@ Content in the first column | Content in the second column
 	46 stacks**
 
 
-
-
 **slabs
 	18 stacks**
 
