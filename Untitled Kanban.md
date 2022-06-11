@@ -13,11 +13,11 @@ kanban-plugin: basic
 
 
 
-## Done
-
-
-
 ## Struggle
+
+
+
+## Done
 
 
 
