@@ -12,6 +12,18 @@
             "file": "Untitled Kanban.md"
           }
         }
+      },
+      {
+        "id": "de93ed4fb55c2b49",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Collect Obsidian.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -67,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Collect Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,8 +97,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "918bdd4470760d0b",
+  "active": "de93ed4fb55c2b49",
   "lastOpenFiles": [
+    "Collect Obsidian.md",
     "Untitled Kanban.md",
     "Untitled Kanban 1.md",
     "Untitled.md",

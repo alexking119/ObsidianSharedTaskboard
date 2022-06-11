@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## To do
 
-- [ ] Collect Obsidian
+- [ ] [[Collect Obsidian]]
 
 
 ## WIP
