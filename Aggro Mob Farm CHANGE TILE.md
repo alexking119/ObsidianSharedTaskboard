@@ -17,13 +17,13 @@ Vid Tutorial: https://www.youtube.com/watch?v=Gg17wAr_IOI&list=PLQ4fAHh89xNXdVgc
 **sticky pistons
 	16
 
-**hoppers
+hoppers
 	2
 
-##### comparators
+comparators
 	3
 
-##### Redstone dust
+Redstone dust
 	stack
 
 ##### redstone blocks
