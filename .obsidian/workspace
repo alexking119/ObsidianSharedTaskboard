@@ -7,11 +7,9 @@
         "id": "918bdd4470760d0b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Collect Obsidian.md",
-            "mode": "source",
-            "source": false
+            "file": "Untitled Kanban.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collect Obsidian.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +87,8 @@
   },
   "active": "918bdd4470760d0b",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Untitled Kanban 1.md",
     "Collect Obsidian.md"
   ]
 }
