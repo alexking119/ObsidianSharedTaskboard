@@ -3,14 +3,14 @@ Vid Tutorial: https://www.youtube.com/watch?v=Gg17wAr_IOI&list=PLQ4fAHh89xNXdVgc
 
 Material | Amount 
 ------------ | ------------ 
-	Content from cell 1| Content from cell 2 
+Content from cell 1 | Content from cell 2 
 Content in the first column | Content in the second column
 
 
 
 
 **building blocks
-		46 stacks**
+	46 stacks**
 
 
 
