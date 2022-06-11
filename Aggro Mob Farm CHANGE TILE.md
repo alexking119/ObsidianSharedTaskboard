@@ -27,12 +27,20 @@ Content in the first column | Content in the second column
 Content in the first column | Content in the second column
 Content in the first column | Content in the second column
 Content in the first column | Content in the second column
-- [ ] Content in the first column | Content in the second columnContent in the first column | Content in the second column
 Content in the first column | Content in the second column
 Content in the first column | Content in the second column
 Content in the first column | Content in the second column
 Content in the first column | Content in the second column
 Content in the first column | Content in the second column
+Content in the first column | Content in the second column
+Content in the first column | Content in the second column
+Content in the first column | Content in the second column
+Content in the first column | Content in the second column
+Content in the first column | Content in the second column
+Content in the first column | Content in the second column
+Content in the first column | Content in the second column
+Content in the first column | Content in the second column
+
 
 
 
