@@ -5,5 +5,5 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "smartIndentList": true,
-  "useTab": false
+  "useTab": true
 }
