@@ -1,22 +1,23 @@
 Vid Tutorial: https://www.youtube.com/watch?v=Gg17wAr_IOI&list=PLQ4fAHh89xNXdVgcsuhOaKNLkmxFa87of&index=1
 
 ##### Major Resources Required:
+
 **building blocks
 		46 stacks
 
-slabs
+**slabs
 	18 stacks
 
-##### glass
+**glass
 	14 stacks
 
-##### stacks magma blocks
+**stacks magma blocks
 	8 stacks
 
-##### sticky pistons
+**sticky pistons
 	16
 
-##### hoppers
+**hoppers
 	2
 
 ##### comparators
