@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Aggro Mob Farm.md",
+            "file": "Legend.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aggro Mob Farm.md",
+                "file": "Legend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "918bdd4470760d0b",
   "lastOpenFiles": [
+    "Legend.md",
     "Aggro Mob Farm.md",
     "README.md",
     "To Do List.md",
