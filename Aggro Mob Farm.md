@@ -1,5 +1,7 @@
 Vid Tutorial: https://www.youtube.com/watch?v=Gg17wAr_IOI&list=PLQ4fAHh89xNXdVgcsuhOaKNLkmxFa87of&index=1
 
+
+
 Major Resources Required:
 building blocks
 	46 stacks
@@ -10,6 +12,8 @@ slabs
 glass
 	14 stacks
 
+stacks magma blocks
+	8 stacks
 
 sticky pistons 
 	16
@@ -31,6 +35,11 @@ trapdoors
 noteblocks 
 	16
 	
-28 stackable (up to 64) items for the clock 1 lever 2 observers 
-8 stacks magma blockss
-12 packed ice.
+stackable (up to 64) items hopper clock 
+	28
+
+lever
+	1
+
+observers
+	2
