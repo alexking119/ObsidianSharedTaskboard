@@ -1,4 +1,5 @@
 {
   "cssTheme": "Prism",
-  "textFontFamily": "Courier New"
+  "textFontFamily": "Courier New",
+  "baseFontSize": 19
 }
