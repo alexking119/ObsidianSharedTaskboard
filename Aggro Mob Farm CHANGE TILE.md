@@ -2,9 +2,9 @@ Vid Tutorial: https://www.youtube.com/watch?v=Gg17wAr_IOI&list=PLQ4fAHh89xNXdVgc
 
 
 
-Major Resources Required:
-##### building blocks
-	46 stacks
+##### Major Resources Required:
+	##### building blocks
+		46 stacks
 
 ##### slabs
 	18 stacks
