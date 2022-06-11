@@ -7,11 +7,9 @@
         "id": "f8865ea3cb5d2ba9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Aggro Mob Farm.md",
-            "mode": "source",
-            "source": false
+            "file": "To Do List.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aggro Mob Farm.md",
+                "file": "To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +87,13 @@
   },
   "active": "f8865ea3cb5d2ba9",
   "lastOpenFiles": [
-    "Aggro Mob Farm.md",
     "To Do List.md",
-    "README.md",
+    "Aggro Mob Farm.md",
     "Collect Obsidian.md",
+    "README.md",
+    "Untitled.md",
     "Untitled Kanban 1.md",
     "Untitled Kanban.md",
-    "Untitled.md",
     "conflict-files-obsidian-git.md"
   ]
 }
