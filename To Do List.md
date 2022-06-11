@@ -4,20 +4,21 @@ kanban-plugin: basic
 
 ---
 
-## Waiting
+## Unstarted
 
 - [ ] [[Aggro Mob Farm]]
 
 
-## WIP
-
-
-
-## Struggle
+## WIP - Ventsi
 
 
 
 ## Done
+
+**Complete**
+
+
+## Abandoned
 
 
 
