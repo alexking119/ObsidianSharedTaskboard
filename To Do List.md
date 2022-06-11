@@ -4,20 +4,25 @@ kanban-plugin: basic
 
 ---
 
-## To do
+## Waiting
 
-- [ ] [[Collect Obsidian]]
-
-
-## WIP
+- [ ] [[Aggro Mob Farm]]
 
 
+## WIP - Ventsi
 
-## Struggle
+
+
+## WIP - Alex
 
 
 
 ## Done
+
+**Complete**
+
+
+## Backlog
 
 
 
