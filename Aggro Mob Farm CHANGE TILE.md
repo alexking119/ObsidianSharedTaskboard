@@ -10,22 +10,22 @@ Content in the first column | Content in the second column
 
 
 **building blocks
-		46 stacks
+		46 stacks**
 
 **slabs
-	18 stacks
+	18 stacks**
 
 **glass
-	14 stacks
+	14 stacks**
 
 **stacks magma blocks
-	8 stacks
+	8 stacks**
 
 **sticky pistons
-	16
+	16**
 
 **trapdoors 
-	1.5 stacks
+	1.5 stacks**
 
 hoppers
 	2
@@ -48,5 +48,5 @@ stackable (up to 64) items hopper clock
 lever
 	1
 
-##### observers
+observers
 	2
