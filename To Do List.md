@@ -4,9 +4,9 @@ kanban-plugin: basic
 
 ---
 
-## To do
+## Waiting
 
-- [ ] [[Collect Obsidian]]
+- [ ] [[Aggro Mob Farm]]
 
 
 ## WIP

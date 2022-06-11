@@ -9,7 +9,7 @@
         "state": {
           "type": "kanban",
           "state": {
-            "file": "Untitled Kanban 1.md"
+            "file": "To Do List.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban 1.md",
+                "file": "To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +87,11 @@
   },
   "active": "918bdd4470760d0b",
   "lastOpenFiles": [
-    "Untitled Kanban 1.md",
-    "Untitled Kanban.md",
-    "Untitled.md",
-    "Test123.md",
+    "To Do List.md",
+    "Aggro Mob Farm.md",
     "Collect Obsidian.md",
+    "Untitled Kanban 1.md",
+    "Untitled.md",
     "README.md"
   ]
 }
