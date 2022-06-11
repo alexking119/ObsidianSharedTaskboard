@@ -10,6 +10,14 @@
           "type": "empty",
           "state": {}
         }
+      },
+      {
+        "id": "b69bf8262ce9d63b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -82,12 +90,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "570f03441bd4fd83",
+  "active": "b69bf8262ce9d63b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "To Do List.md",
-    "Aggro Mob Farm.md",
     "Collect Obsidian.md",
+    "Legend.md",
+    "Aggro Mob Farm.md",
+    "To Do List.md",
     "README.md",
     "Untitled.md",
     "Untitled Kanban 1.md",
