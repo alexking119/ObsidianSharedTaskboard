@@ -4,35 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "918bdd4470760d0b",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "b0c051feb7ef6a6f",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "d0ec16819ef35e28",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
         "id": "f8865ea3cb5d2ba9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Aggro Mob Farm.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -89,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aggro Mob Farm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,10 +89,13 @@
   },
   "active": "f8865ea3cb5d2ba9",
   "lastOpenFiles": [
+    "Aggro Mob Farm.md",
+    "To Do List.md",
+    "README.md",
+    "Collect Obsidian.md",
     "Untitled Kanban 1.md",
     "Untitled Kanban.md",
     "Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "Collect Obsidian.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
