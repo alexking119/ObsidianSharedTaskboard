@@ -4,36 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "918bdd4470760d0b",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "b0c051feb7ef6a6f",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "d0ec16819ef35e28",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
         "id": "f8865ea3cb5d2ba9",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "570f03441bd4fd83",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
           "state": {
-            "file": "Untitled Kanban 1.md"
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -91,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,12 +95,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f8865ea3cb5d2ba9",
+  "active": "570f03441bd4fd83",
   "lastOpenFiles": [
-    "Untitled Kanban 1.md",
-    "Untitled Kanban.md",
-    "Untitled.md",
     "conflict-files-obsidian-git.md",
-    "Collect Obsidian.md"
+    "To Do List.md",
+    "Aggro Mob Farm.md",
+    "Collect Obsidian.md",
+    "README.md",
+    "Untitled.md",
+    "Untitled Kanban 1.md",
+    "Untitled Kanban.md"
   ]
 }
