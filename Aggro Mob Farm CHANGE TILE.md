@@ -7,25 +7,25 @@ Content from cell 1 | Content from cell 2
 Material | Amount 
 ------------ | ------------ 
 Content from cell 1 | Content from cell 2 
-item 1|1
-item 2|1
-item 1|1
-item 2|1
-item 1|1
-item 2|1
-item 1|1
-item 2|1
-item 1|1
-item 2|1
-item 1|1
-item 2|1
+item 1				|1
+item 2				|1
+item 1				|1
+item 2				|1
+item 1				|1
+item 2				|1
+item 1				|1
+item 2				|1
+item 1				|1
+item 2				|1
+item 1				|1
+item 2				|1
 
 
 
 
+				
 
-
-
+	
 
 
 
