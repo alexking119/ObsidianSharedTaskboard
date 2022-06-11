@@ -7,8 +7,12 @@
         "id": "918bdd4470760d0b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Test123.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,8 @@
     "collapsed": true
   },
   "active": "918bdd4470760d0b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Test123.md",
+    "README.md"
+  ]
 }
