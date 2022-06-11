@@ -1,7 +1,7 @@
 Vid Tutorial: https://www.youtube.com/watch?v=Gg17wAr_IOI&list=PLQ4fAHh89xNXdVgcsuhOaKNLkmxFa87of&index=1
 ##### Major Resources Required:
 
-==building blocks
+**building blocks
 		46 stacks
 
 ==slabs
@@ -34,10 +34,10 @@ redstone blocks
 noteblocks 
 	16
 	
-##### stackable (up to 64) items hopper clock 
+stackable (up to 64) items hopper clock 
 	28
 
-##### lever
+lever
 	1
 
 ##### observers
