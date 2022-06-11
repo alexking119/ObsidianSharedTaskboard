@@ -1,6 +1,12 @@
 Vid Tutorial: https://www.youtube.com/watch?v=Gg17wAr_IOI&list=PLQ4fAHh89xNXdVgcsuhOaKNLkmxFa87of&index=1
 ##### Major Resources Required:
 
+Type | Second Header 
+------------ | ------------ 
+Content from cell 1 | Content from cell 2 
+Content in the first column | Content in the second column
+
+
 
 
 **building blocks
