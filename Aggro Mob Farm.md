@@ -15,7 +15,7 @@ glass
 stacks magma blocks
 	8 stacks
 
-sticky pistons 
+sticky pistons
 	16
 
 hoppers
