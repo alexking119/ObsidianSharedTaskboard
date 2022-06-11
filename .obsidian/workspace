@@ -7,9 +7,33 @@
         "id": "918bdd4470760d0b",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "b0c051feb7ef6a6f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "d0ec16819ef35e28",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "f8865ea3cb5d2ba9",
+        "type": "leaf",
+        "state": {
           "type": "kanban",
           "state": {
-            "file": "Untitled Kanban.md"
+            "file": "Untitled Kanban 1.md"
           }
         }
       }
@@ -67,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Untitled Kanban 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,10 +109,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "918bdd4470760d0b",
+  "active": "f8865ea3cb5d2ba9",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
     "Untitled Kanban 1.md",
+    "Untitled Kanban.md",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
     "Collect Obsidian.md"
   ]
 }
