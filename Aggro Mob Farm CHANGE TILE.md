@@ -19,9 +19,9 @@ item 2				|1				|
 
 
 
-stacks of building blocks 
-stacks of slabs 
-stacks of glass 
+building blocks 
+slabs 
+glass 
 sticky pistons 
 hoppers (not including collection) 
 comparators 
@@ -32,8 +32,8 @@ noteblocks
 stackable (up to 64) items for the clock 
 lever 
 observers 
-stacks + 48 magma blocks 
- packed ice
+magma blocks 
+packed ice
 
 46
 18
@@ -48,5 +48,5 @@ Ha
 28
 1 
 2 
-7 
+
 12
